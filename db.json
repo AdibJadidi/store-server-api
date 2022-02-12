@@ -1,0 +1,63 @@
+{
+  "category": [
+    {
+      "name": "حبوبات",
+      "id": 1
+    },
+    {
+      "name": "پروتئین",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "تنقلات"
+    },
+    {
+      "name": "خشکبار",
+      "id": 4
+    }
+  ],
+  "Product": [
+    {
+      "id": 1,
+      "name": "لوبیا",
+      "category_id": 1
+    },
+    {
+      "id": 4,
+      "name": "کره",
+      "category_id": 2
+    },
+    {
+      "id": 2,
+      "name": "عدس",
+      "category_id": 1
+    },
+    {
+      "id": 3,
+      "name": "شیر",
+      "category_id": 2
+    },
+    {
+      "id": 5,
+      "name": "پفک",
+      "category_id": 3
+    },
+    {
+      "id": 6,
+      "name": "پسته",
+      "category_id": 4
+    },
+
+    {
+      "id": 9,
+      "name": "نخود",
+      "category_id": 1
+    },
+    {
+      "id": 10,
+      "name": "لپه",
+      "category_id": 1
+    }
+  ]
+}
